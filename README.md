@@ -1,7 +1,7 @@
 # NYTReader
 NYTReader is a simple RSS-like application for reading the public API of The New York Times.
 
-                                      ![Alt text](web_hi_res_256.png?raw=true "logo")
+![Alt text](web_hi_res_256.png?raw=true "logo")
 
 It allows users to quickly glance through articles avaiable in the API, open their detailed view and access their full text via a link to the New York Times mobile website.
 The app features a database for offline caching of the last 50 articles as well as their pictures.
