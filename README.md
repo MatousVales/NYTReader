@@ -10,7 +10,7 @@ The app features a database for offline caching of the last 50 articles as well 
 
 Screenshots:
 
-![Alt text](NYTlist.png?raw=true "logo") ![Alt text](NYTdetail.png?raw=true "logo") ![Alt text](giftrump.gif?raw=true "logo")
+![Alt text](list.png?raw=true "logo") ![Alt text](detail.png?raw=true "logo") ![Alt text](giftrump.gif?raw=true "logo")
 
 Since the NYT uses gifs to illustrate their articles, Glide is used instead of Picasso, because of GIF support.
 The implemented architecture is fully asynchronous, with Otto and Retrofit responsible for networking and CursorLoaders for accessing an implemented ContentProvider.
