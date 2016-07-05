@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="headerSize">300dp</dimen>
+    <dimen name="textSizePerex">22sp</dimen>
+    <dimen name="textSizeBody">14sp</dimen>
+    <dimen name="textSizeTitle">30sp</dimen>
+    <dimen name="expandedTitleSize">27sp</dimen>
+    <dimen name="collapsedTitleSize">23sp</dimen>
+    <dimen name="expandedTitleMarginBottom">32dp</dimen>
+    <dimen name="expandedTitleMarginEnd">56dp</dimen>
+    <dimen name="expandedTitleMarginStart">40dp</dimen>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NYTReader</string>
+    <string name="sync_account_type">nytreader.matous.com</string>
+    <string name="content_authority">com.matous.nytreader.app</string>
+    <string name="datestring">Publikováno&#160;</string>
+    <string name="source">Zdroj:&#160;</string>
+    <string name="noInternet">Inernet není k dispozici</string>
+    <string name="headerDesc">Úvodni obrázek</string>
+    <string name="openIn">Otevřít v</string>
+    <string name="shareWith">Sdílet</string>
+</resources>

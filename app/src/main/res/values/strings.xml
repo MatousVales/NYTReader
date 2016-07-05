@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYTReader</string>
+    <string name="sync_account_type">nytreader.matous.com</string>
+    <string name="content_authority">com.matous.nytreader.app</string>
+    <string name="datestring">Published on&#160;</string>
+    <string name="source">Source:&#160;</string>
+    <string name="toolbarTitle">The New York Times</string>
+    <string name="noInternet">Internet is not available</string>
+    <string name="headerDesc">Header image</string>
+    <string name="openIn">Open in</string>
+    <string name="shareWith">Share</string>
+</resources>
